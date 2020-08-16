@@ -1,4 +1,4 @@
-# Automate-Instagram
+# Instagram Bot
 Automatically likes the posts of the respective user
 
   **Prerequisites:**
