@@ -38,4 +38,4 @@ class Instabot:
             nextPic.click() 
             sleep(2)
     sleep(20)
-Instabot('abcxcwe','dfasd32963','capdt') #Username,password,Username of other person
+Instabot('Your Username','Your Password','Username of other person') #Username,password,Username of other person
